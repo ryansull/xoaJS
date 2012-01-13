@@ -34,7 +34,7 @@
 *
 *   function getStuff(){
 *       xoa.PostMessageToWebService('http:\\a.geneca.com\getStuff.htm', 
-*									"get stuff", callback);
+*			"get stuff", callback);
 *   }
 *
 *   function getStuffCallback(data){
